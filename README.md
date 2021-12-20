@@ -8,15 +8,12 @@
 <div>
 <h2 align="center">~ About me ~</h2>
 <li>
-<b>Name:</b> Douglas</li>
+<b>Name:</b> Douglas Vinicius</li>
 <li>
 <b>Loves:</b> Code! and games maybe
 </li>
 <li>
-<b>Gender:</b> he/him/Male
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Illustration, Web Development and CS:GO
+<b>Hobbys:</b> Tech Stuff, Illustration, Development and CS:GO
 </li>
 </div>
 
