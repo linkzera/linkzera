@@ -7,10 +7,10 @@
 <li>
 <b>Name:</b> Douglas Vinicius</li>
 <li>
-<b>Loves:</b> Code! and games
+<b>Loves:</b> Code!
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff and Illustration 
+<b>Hobbys:</b> Tech Stuff and Games 
 </li>
 </div>
 
@@ -37,6 +37,7 @@ Front-end
    <br/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <br/>
  DB
    <br/>
@@ -47,6 +48,7 @@ Front-end
    <br/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
