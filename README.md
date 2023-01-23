@@ -2,7 +2,7 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-"In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
+"In theory, theory and practice are the same. In practice, they’re not."
 
 <br/>
 <div align="center">
@@ -10,6 +10,3 @@ Enthusiast of the best web & mobile development technologies.
   <a href="https://www.linkedin.com/in/douglasvinicius1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
-
-
-</body>
