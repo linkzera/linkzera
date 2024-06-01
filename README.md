@@ -1,8 +1,6 @@
 # Douglas Vinicius
 
-Enthusiast of the best web & mobile development technologies.
-
-"In theory, theory and practice are the same. In practice, they’re not."
+Enthusiast of the best development technologies.
 
 <br/>
 <div align="center">
